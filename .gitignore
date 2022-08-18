@@ -1,0 +1,6 @@
+# Virtual Env
+venv/
+
+# vscode
+.vscode/
+.history/
